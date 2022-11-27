@@ -1,3 +1,3 @@
 # Curso de GIT y GITHUB
 
-Agregando mas contenido al README
+Agregando más contenido al README

@@ -1,0 +1,98 @@
+commit 4fe9c9316c22401ed25ab21b88f2a1250be35f3d
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 17:12:08 2022 -0300
+
+    Agregnado 2 parrafos
+
+commit 88903b1e80acd9cce7fa9970781ebd539c9f2348
+Merge: 995cd2b a096cc2
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 17:06:24 2022 -0300
+
+    Resolviendo conflicto en estaciones de añoy fecha de inicio
+
+commit 995cd2b836aa62307ecd7db21c142c903adf03e6
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:57:29 2022 -0300
+
+    Agregando las estaciones del año con fecha de inicio
+
+commit a096cc2ef961e89dd26327c10cb690e41e4b0555
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:57:29 2022 -0300
+
+    Agregnado las estaciones del año
+
+commit d0d135ea305d27936d0509d2abf5c2fbfcd9061f
+Merge: 9630a65 79521ac
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:48:49 2022 -0300
+
+    Resolviendo conflicto marge main/html en el documento index.html
+
+commit 79521acc2518a21c00c893b9a3ef42236e3d3356
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:32:48 2022 -0300
+
+    Agregnado index.js al index.html
+
+commit 9630a650eba5f7da6e7e7a38930a320f0f31a1fd
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:29:45 2022 -0300
+
+    Agregando style.css al index.html
+
+commit b5a0926202b6b9b8997cb09dbf3f7b35af955035
+Merge: 1cf8154 389804b
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:22:19 2022 -0300
+
+    Merge branch 'js'
+
+commit 389804b6ff112241074b1b80973e5889bb19cf00
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:18:34 2022 -0300
+
+    Creando index.js
+
+commit 1cf8154d1fc827a55462742dbe1e83309d33a0c1
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:14:55 2022 -0300
+
+    Creando style.css
+
+commit 842630b63387d3853ed0bdde402d96d1da0c2bee
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 16:07:18 2022 -0300
+
+    Creando index.html
+
+commit 99a6cea5c7b5a7eea31479b4860fc2261daf386c
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 15:57:49 2022 -0300
+
+    Ignorando archivos .exe
+
+commit ec34a68679192197cb736247fb2aa767e0009132
+Author: fabriciopereyra <54421216+fabriciopereyra@users.noreply.github.com>
+Date:   Sun Nov 27 15:43:27 2022 -0300
+
+    Creando licencia del repositorio
+
+commit 3ff48733804b13b3a4014628fe7fba76ec9cecbe
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 15:39:15 2022 -0300
+
+    Agregando más contenido al README
+
+commit f1734ec4d544ed0ad83695e8f75261abc2503446
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 15:31:59 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit 6088649a2f87bc06493b4beff37b8e1d1469850a
+Author: PEREYRA ESPECHE, Fabricio Daniel <fabriciopereyra@gmail.com>
+Date:   Sun Nov 27 15:29:36 2022 -0300
+
+    Primer commit
